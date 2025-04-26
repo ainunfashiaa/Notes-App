@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  font-family: Poppins;
+  margin: 0;
+  padding: 0;
+}
+body {
+  align-items: center;
+  background-color: #f9f9f9;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+}
+.container {
+  max-width: 600px;
+  padding: 2rem;
+  text-align: left;
+  width: 100%;
+}
+h2 {
+  color: #333;
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+p {
+  color: #666;
+  margin-bottom: 3.5rem;
+}
+form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.register-link {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+.register-link a {
+  color: #f39ba9;
+  text-decoration: none;
+}
+/*# sourceMappingURL=signup.bc9c89ac0df5c72d10cc.css.map*/
